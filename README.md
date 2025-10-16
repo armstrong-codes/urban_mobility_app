@@ -55,3 +55,6 @@ Example you terminal should look like this:
 ```bash
 (venv) PS G:\ALU_classProjects\Urban-MobilityApp> ...
 ```
+This is the video link which explains this app mechanism:
+
+https://youtu.be/A1X8cQJAdSo
